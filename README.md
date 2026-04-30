@@ -3,7 +3,6 @@
 A web-based AR app to visualize and place furniture in your space using your device camera.
 
 **Demo:** [Deployed Link](https://ics-544-ar-furniture.vercel.app)
-**Repo:** [github.com/ebtesam-l/ICS544-AR-furniture](https://github.com/ebtesam-l/ICS544-AR-furniture)
 
 ---
 
@@ -52,7 +51,7 @@ Visit https://ics-544-ar-furniture.vercel.app
 | **Scan** | Tap screen | Detect floor |
 | **Place** | Tap floor | Place furniture |
 | **Adjust** | Move/Rotate/Scale buttons | Transform furniture |
-| | Furniture chips | Select item |
+| | Furniture  | Select item |
 | | Place/Reset buttons | New item / Reset position |
 
 ---
